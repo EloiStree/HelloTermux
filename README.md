@@ -17,3 +17,11 @@ cd ~/storage/shared
 dir
 cd ~/storage/shared/documents
 ```
+
+```
+git clone ...
+``
+
+```
+git config --global --add safe.directory /storage/emulated/0/documents/CodeLabXR
+```
