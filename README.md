@@ -10,3 +10,10 @@ pkg install git -y
 pkg install gh
 gh auth login
 ```
+
+```
+termux-setup-storage
+cd ~/storage/shared
+dir
+cd ~/storage/shared/documents
+```
